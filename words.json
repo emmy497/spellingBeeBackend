@@ -1,0 +1,7 @@
+[
+  { "text": "apple", "difficulty": "easy" },
+  { "text": "banana", "difficulty": "easy" },
+  { "text": "orchestra", "difficulty": "medium" },
+  { "text": "philosophy", "difficulty": "hard" },
+  { "text": "xenophobia", "difficulty": "hard" }
+]
